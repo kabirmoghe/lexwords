@@ -1,3 +1,3 @@
 # lexwords
 
-The list of "valid" words for [lexgame](thelexgame.com)
+The list of "valid" words for [lexgame](www.thelexgame.com)
